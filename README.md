@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Siva;Data+Science+Enthusiast+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)\
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
   <img src="./images/jaya_bheri.png" alt="Jaya Bheri">
