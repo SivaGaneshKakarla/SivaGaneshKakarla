@@ -5,13 +5,15 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Tannistha;Machine+Learning+Enthusiast+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Siva;Data+Science+Enthusiast+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)\
 
+<p align="center">
+  <img src="./images/jaya_bheri.png" alt="Jaya Bheri">
+</p>
 
-![background.png](./images/jaya_bheri.png)
 
 <br>
 
@@ -19,7 +21,7 @@
 
 <!-- ----------- HEAD SECTION END ------------ -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SivaGaneshKakarla&label=Profile+Views&color=green&style=plastic%22%20alt=%22paltannistha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SivaGaneshKakarla&label=Profile+Views&color=green&style=plastic%22%20alt=%22SivaGaneshKakarla" /> </p>
 
 <!--
 Personalized GitHub Stats Card
@@ -27,13 +29,13 @@ just replace the username param to your github username.
 For more info and customization, read, https://github.com/anuraghazra/github-readme-stats
 -->
 
-* This is Tannistha Pal. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
-* I am a 4th year undergraduate under the department of Electronics and Communications Engineering in [Institute of Engineering & Managemnet, Kolkata](https://iem.edu.in/).
+* This is Siva Ganesh. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
+* I am a 4th year undergraduate under the department of Electronics and Communications Engineering in Sree Vidyanikethan Engineering College.
 
 
 **⚙️ &nbsp;GitHub Analytics**
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=SivaGaneshKakarla&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltannistha&layout=compact&theme=cobalt"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=SivaGaneshKakarla&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaGaneshKakarla&layout=compact&theme=cobalt"></p>
 
 <!--
 The number of github profile or any other repo view.
