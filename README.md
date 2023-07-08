@@ -11,7 +11,7 @@
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)\
 
 
-![background.png](./images/jaya-bheri.png)
+![background.png](./images/jaya_bheri.png)
 
 <br>
 
