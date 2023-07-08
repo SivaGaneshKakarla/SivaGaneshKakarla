@@ -102,9 +102,9 @@ Then paste the links along with the alt text. (optional)
 
 ![connect-with-me.png](./images/connect-with-me.png)
 
-[![LinkedIn](https://img.shields.io/badge/-paltannistha-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paltannistha/)
-[![Instagram](https://img.shields.io/badge/-pal_tannistha-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pal_tannistha/?hl=en)
-[![Gmail](https://img.shields.io/badge/-Tannistha_Pal-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:paltannistha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Siva_Ganesh-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siva-ganesh-03343721b/)
+<!--[![Instagram](https://img.shields.io/badge/-pal_tannistha-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pal_tannistha/?hl=en)-->
+[![Gmail](https://img.shields.io/badge/-Siva_Ganesh-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:ganeshsiva721@gmail.com)
 ***
 <!--
 Links with Badges.
@@ -113,6 +113,7 @@ You can either change the link or customize the links at https://shields.io/ or 
 Replacing my text with yours would also work however.
 -->
 <div align="center">
+
 
 ### Starring some of the repositories would be highly appreciated 💪!
 
